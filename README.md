@@ -1,2 +1,2 @@
-# Quality-Assurance-AGR_AN
+# PROJETO: “DEPLOYMENT QUALITY ASSURANCE”
  Repository for the Quality Assurance discipline
